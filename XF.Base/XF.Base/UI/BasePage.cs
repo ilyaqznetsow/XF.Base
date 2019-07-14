@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using XF.Base.ViewModel;
 
-namespace XF.Base.View
+namespace XF.Base.UI
 {
     public class BasePage : ContentPage, IDisposable
     {
